@@ -1,7 +1,7 @@
 {
   "name": "jest-environment-ethereum",
   "description": "",
-  "version": "0.3.0",
+  "version": "1.0.1",
   "author": "tnayuki",
   "bugs": {
     "url": "https://github.com/tnayuki/jest-environment-ethereum/issues"
