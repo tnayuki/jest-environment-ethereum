@@ -1,7 +1,7 @@
 {
   "name": "jest-environment-ethereum",
   "description": "",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "author": "tnayuki",
   "bugs": {
     "url": "https://github.com/tnayuki/jest-environment-ethereum/issues"
@@ -32,7 +32,8 @@
   "files": [
     "dist/ethereum-environment.js",
     "dist/index.js",
-    "package.json"
+    "package.json",
+    "README.md"
   ],
   "homepage": "https://github.com/tnayuki/jest-environment-ethereum",
   "keywords": [
